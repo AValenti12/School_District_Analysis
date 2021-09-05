@@ -6,14 +6,21 @@ The purpose of this analysis was to replace inaccurate data from the ninth-grade
 
 # Results
 
-With removing the ninthgraders at Thomas High school, the change is not that drastic as the it is a large dataset and the number of ninth graders at that school did not significantly impact the overall data. There was a change in Thomas High School scores and overall passing percentage. 
+- With removing the ninthgraders at Thomas High school, the change is not that drastic, as the it is a large dataset and the number of ninth graders at that school did not significantly impact the district summary and school summary.
+-Replacing the ninth graders math and reading scores effected Thomas High schools performance as it did lower the percentages but not extremely significantly. 
+-There was not a significant change to the math and reading scores by grade.
+-Schools spending was not affected by removing the ninth graders at Thomas High School.
+-Scores by school size was not greatly affected.
+-Scores by school type was not greatly affected.
+Table below is the original analysis, including all students/grades/schools.
+ 
 
 
  
 
 The table below is the recent analysis with the Thomas High School ninth graders removed. There is a slight change in the table for Thomas High School
 
-
+https://github.com/AValenti12/School_District_Analysis/blob/main/resources/per_school_summary_challenge.PNG?raw=true
  
 # Summary
 
