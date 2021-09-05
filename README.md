@@ -15,14 +15,16 @@ The purpose of this analysis was to replace inaccurate data from the ninth-grade
 Table below is the original analysis, including all students/grades/schools.
  
 
+![per_school_summary_module](https://user-images.githubusercontent.com/88061345/132128876-eb2aef35-4f05-4c41-a8e2-aa836b7cade9.PNG)
 
  
 
 The table below is the recent analysis with the Thomas High School ninth graders removed. There is a slight change in the table for Thomas High School
 
-https://github.com/AValenti12/School_District_Analysis/blob/main/resources/per_school_summary_challenge.PNG?raw=true
+![per_school_summary_challenge](https://user-images.githubusercontent.com/88061345/132128869-a56e462b-55b0-4127-9d3e-dc3d8e8a2971.PNG)
+
  
 # Summary
 
-Removing the students from Thomas High impacts the total number of students, the number of students at Thomas High, and average scores, percent passing, and overallpassing percent. 
+Removing the ninth grade students from Thomas High impacts the total number of students, the number of students at Thomas High, and average scores, percent passing, and overallpassing percent for students at Thomas High.
 
