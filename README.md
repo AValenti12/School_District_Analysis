@@ -31,5 +31,5 @@ The table below is the recent analysis with the Thomas High School ninth graders
  
 # Summary
 
-Removing the ninth grade students from Thomas High impacts the total number of students, the number of students at Thomas High, and average scores for math and reading, and overallpassing percent for students at Thomas High.
+Removing the ninth grade students from Thomas High impacts Thomas High school more than any other group. With taking out the ninth graders, it changed the number of students from Thomas High, the average math and reading scores, and over all percentages for math and reading at Thomas High.  It then would decrease the overall amouth of students, which then leads to a change in average scores and score percentages. These changes were minimal, which then shows that removing the ninth graders at Thomas High did not significantly change the overall information.
 
